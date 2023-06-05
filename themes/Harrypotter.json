@@ -1,0 +1,157 @@
+{
+  "name": "Harry Potter",
+  "description": ":fr:",
+  "version": "1.1",
+  "authors": [
+    {
+      "name": "XottikMW#6098",
+      "id": "661557499056619520"
+    }
+  ],
+  "theme_color_map": {
+    "HEADER_PRIMARY": [
+      "#00FF00",
+      "#00FF00"
+    ],
+    "HEADER_SECONDARY": [
+      "#00FF00",
+      "#00FF00"
+    ],
+    "TEXT_NORMAL": [
+      "#00FF00",
+      "#00FF00"
+    ],
+    "TEXT_MUTED": [
+      "#00FF00",
+      "#00FF00"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#00FF00",
+      "#00FF00"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#00FF00",
+      "#00FF00"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#00FF00",
+      "#00FF00"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#00FF00",
+      "#00FF00"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#00FF00",
+      "#00FF00"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#00FF00",
+      "#00FF00"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#00FF00",
+      "#00FF00"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#00FF00",
+      "#00FF00"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#00FF00",
+      "#00FF00"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#00FF00",
+      "#00FF00"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#00FF00",
+      "#00FF00"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#00FF00",
+      "#00FF00"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#00FF00",
+      "#00FF00"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "rgba(255, 255, 255, 0.02)",
+      "#00FF00"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "rgba(255, 255, 255, 0.02)",
+      "hsla(214, 9.9%, 50.4%, 0.08)"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "rgba(255, 255, 255, 0.03)",
+      "hsla(214, 9.9%, 50.4%, 0.16)"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "rgba(255, 255, 255, 0.04)",
+      "hsla(214, 9.9%, 50.4%, 0.24)"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "transparent",
+      "hsla(240, 7.7%, 2.5%, 0.08)"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#00FF00",
+      "hsla(217, 7.6%, 33.5%, 0.3)"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent",
+      "hsla(0, 0%, 0%, 0)"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#00FF00",
+      "#00FF00"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "rgba(0, 0, 0, 0.1)",
+      "#00FF00"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#00FF00",
+      "#00FF00"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#00FF00",
+      "#00FF00"
+    ],
+    "TEXT_LINK": [
+      "#00FF00",
+      "#00FF00"
+    ],
+    "KEYBOARD": [
+      "#00FF00",
+      "#00FF00"
+    ]
+  },
+  "colours": {
+    "PRIMARY_DARK": "#00FF00",
+    "PRIMARY_DARK_100": "#00FF00",
+    "PRIMARY_DARK_200": "#00FF00",
+    "PRIMARY_DARK_300": "#00FF00",
+    "PRIMARY_DARK_360": "#00FF00",
+    "PRIMARY_DARK_400": "#00FF00",
+    "PRIMARY_DARK_500": "#00FF00",
+    "PRIMARY_DARK_600": "#00FF00",
+    "PRIMARY_DARK_630": "#00FF00",
+    "PRIMARY_DARK_700": "#00FF00",
+    "PRIMARY_DARK_800": "#00FF00",
+    "BRAND_NEW": "#00FF00",
+    "STATUS_RED": "#00FF00",
+    "STATUS_GREEN_600": "#00FF00"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#00FF00"
+  },
+  "background": {
+    "blur": 0.1,
+    "url": "https://i.postimg.cc/NfmNRj6M/Untitled.jpg",
+    "alpha": 1.0
+  }
+}
